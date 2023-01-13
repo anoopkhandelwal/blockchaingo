@@ -3,8 +3,11 @@ This repo consists of the end-to-end implementation of blockchain using golang.
 
 
 `go version go1.19.3 darwin/amd64`
-`GOPATH="/usr/local/go"`   
+
+`GOPATH="/usr/local/go"` 
+
 `GOROOT="/usr/local/go"`
+
 `GOMOD="/usr/local/go/src/blockchaingo/go.mod"`
 
 Below are the features-
